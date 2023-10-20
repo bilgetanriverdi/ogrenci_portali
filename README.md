@@ -1,7 +1,7 @@
 # ÖĞRENCİ PORTALI
-```
+
 Bilişim Sistemleri Analizi ve Tasarımı ders projesi olarak hazırlanmıştır. İş analizi metodolojileri kullanılıp, balsamiq üzerinde tasarımları yapılmıştır.
-```
+
 ```
 Işık Üniversitesi MIS Bölümü, Öğrenci Bilgi Sistemi'nin amaçları aşağıda listelenmiştir:  
 a.	Hızlı ders kaynaklarına erişimi sağlar.

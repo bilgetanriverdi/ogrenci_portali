@@ -33,6 +33,8 @@ Dersler Sayfası
 
 ![dersler](https://r.resimlink.com/vQAGWlrzJ679.jpg)
 
+Seçili Ders için:
+
 ![ders_izlence](https://r.resimlink.com/LkyYGuZQ.jpg)
 
 ![ogretim_gorevlisi](https://r.resimlink.com/KSVlR.jpg)
@@ -40,5 +42,7 @@ Dersler Sayfası
 ![ders_materyal](https://r.resimlink.com/WTsSOFia.jpg)
 
 ![ders_yorum](https://r.resimlink.com/SibnHQ3K.jpg)
+
+Seçili Öğretim Görevlisi için:
 
 ![görevli_yorum](https://r.resimlink.com/_c8gTPqn.jpg)
